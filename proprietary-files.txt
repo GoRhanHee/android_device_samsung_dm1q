@@ -305,6 +305,30 @@ vendor/lib64/libsfp_sensor.so
 vendor/lib64/libqfp_sensortest.so
 vendor/lib64/libsfp_teegw.so
 
+# Firmware - from dm1qksx-user 16 BP2A.250605.031.A3 S911NKSS6EZA1 release-keys
+vendor/firmware/a740_zap.b02:vendor/firmware/a740_zap-kor.b02|13677439d51c9e28ad02adf4fde5cd000ab89878
+vendor/firmware/a740_zap.mbn:vendor/firmware/a740_zap-kor.mbn|9746d6b555cdcd7e347ce2a91fef6ea90ce12eef
+vendor/firmware/a740_zap.mdt:vendor/firmware/a740_zap-kor.mdt|a181a436c22b8a3db21d63e4499773e3ad3c1514
+vendor/firmware/CAMERA_ICP.b20:vendor/firmware/CAMERA_ICP-kor.b20|289de2a0472b03ca0156d8acd56840b17422cc62
+vendor/firmware/CAMERA_ICP.mbn:vendor/firmware/CAMERA_ICP-kor.mbn|c11d49a0cd773a2cb6e83b2ddceb47165450ded7
+vendor/firmware/CAMERA_ICP.mdt:vendor/firmware/CAMERA_ICP-kor.mdt|2ccc2b8b3b214da31e6aa669c5d9742740fd99f4
+vendor/firmware/evass.b19:vendor/firmware/evass-kor.b19|9a8bc069543decea23bf85f2f4fe44054f0319d0
+vendor/firmware/evass.mbn:vendor/firmware/evass-kor.mbn|ef12cb7cb97ab51aeef5d6cdcdaae6533c3e7571
+vendor/firmware/evass.mdt:vendor/firmware/evass-kor.mdt|92aeafb8a07f86dd2380fda35f83c647a31086f1
+vendor/firmware/vpu30_4v.mbn:vendor/firmware/vpu30_4v-kor.mbn|805514f84f18ddde53cdee1814a5dd5c33687240
+
+# Firmware - from dm1qzhx-user 16 BP2A.250605.031.A3 S9110ZHS6EZA1 release-keys
+vendor/firmware/a740_zap.b02:odm/firmware/a740_zap.b02|215f1213cfde9544727c88b3c57d733d65885ce0
+vendor/firmware/a740_zap.mbn:odm/firmware/a740_zap.mbn|86aa3e95ac7de80653fc3e7c290e1204af093863
+vendor/firmware/a740_zap.mdt:odm/firmware/a740_zap.mdt|a39f9724ae7258957a744b88d114dfc6af15b763
+vendor/firmware/CAMERA_ICP.b20:odm/firmware/CAMERA_ICP.b20|8b37032128de9e0fc9c2ce11ecec0d0f5595a8ca
+vendor/firmware/CAMERA_ICP.mbn:odm/firmware/CAMERA_ICP.mbn|1a33c6d718f626c9c1485412738387116754e4e2
+vendor/firmware/CAMERA_ICP.mdt:odm/firmware/CAMERA_ICP.mdt|0b53e0f4a09698e452c750099d11854b19e4a731
+vendor/firmware/evass.b19:odm/firmware/evass.b19|c620324e714fcb51c3be034c4b959b5d5e0b9a25
+vendor/firmware/evass.mbn:odm/firmware/evass.mbn|1e42f8819b5a3fb82f0f674d49dd4b8951332e60
+vendor/firmware/evass.mdt:odm/firmware/evass.mdt|dfe09956c6d07bee28a469501c69d5c50b988b17
+vendor/firmware/vpu30_4v.mbn:odm/firmware/vpu30_4v.mbn|a8d28fdf5e152da723e1a6c7145fbe31a3048192
+
 # Graphics (Adreno firmware)
 vendor/firmware/a740_sqe.fw
 vendor/firmware/a740_zap.b00
